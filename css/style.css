@@ -1,0 +1,117 @@
+body {
+    background-image: url("../images/fundo.png");
+}
+
+#principal {
+    width: 900px;
+    height: auto;
+}
+
+p {
+    display: block;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+.menu {
+    font-size: 18px;
+    text-transform: uppercase;
+    background: #c5c5b2;
+    padding: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+    position: relative;
+    padding: 2px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 570;
+}
+
+.conteudo {
+    border: 1px solid #e8e8d9;
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+.negrito {
+    position: relative;
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.foto {
+    border: 10px solid #c3c3ae
+}
+
+.conteudo h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #828271
+}
+
+.contact {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+
+.rodape {
+    background:black;
+}
+
+.menu-rodape {
+    display: block;
+    position: relative;
+    text-align: center;
+}
+
+.rodape2 {
+    background-color: rgb(17, 17, 17);
+    padding: 1px;
+}
+
+.aviso {
+    font-size: 12px;
+}
+
+.contact a {
+    text-decoration-color: rgb(47, 165, 255);
+    color: black;
+}
+
+.rodape p{
+    color: white;
+    display: block;
+    position: relative;
+    text-align: center;
+}
+
+.rodape p.descricao {
+    color: #949494;
+}
+
+.rodape p.copyright {
+    color: #949494;
+    font-size: 13px;
+}
+
+.menu-rodape a {
+    text-decoration: none;
+    color: #949494;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+}
+
+.aviso a {
+    text-decoration: none;
+    font-size: 9px;
+}
